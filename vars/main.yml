@@ -1,0 +1,28 @@
+# icons and labels for workspaces
+ucode_icon_workspace_1: '1 ⍉'
+ucode_icon_workspace_2: '2 ⌂'
+ucode_icon_workspace_3: '3 ⍋'
+ucode_icon_workspace_4: '4 ✉'
+ucode_icon_workspace_5: '5 ♪'
+ucode_icon_workspace_6: '6 ♯'
+ucode_icon_workspace_7: '7 ⊡'
+ucode_icon_workspace_8: '8 ≡'
+ucode_icon_workspace_9: '9 >'
+ucode_icon_workspace_10: 'A ⚅'
+ucode_icon_workspace_11: 'B ✱'
+ucode_icon_workspace_12: 'C ♦'
+ucode_icon_workspace_13: 'D ☎'
+ucode_icon_workspace_14: 'E ➤'
+ucode_icon_workspace_15: 'F ✚'
+
+# icons and labels for tray indicators
+ucode_icon_ping: '⇄'
+ucode_icon_wired_conn: '⊸'
+ucode_icon_wifi_conn: '♎'
+ucode_icon_volume: '☊'
+ucode_icon_screen_brightness: '☼'
+ucode_icon_battery: '⚡'
+ucode_icon_load_avg: '↻'
+ucode_icon_date_time: '❖'
+ucode_icon_vcs_tree: '☈'
+
