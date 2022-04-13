@@ -17,13 +17,14 @@ wm_workspace_labels:
   workspace_15: 'F ✚'
 
 # icons and labels for tray indicators
-ucode_icon_ping: '⇄'
-ucode_icon_wired_conn: '⊸'
-ucode_icon_wifi_conn: '♎'
-ucode_icon_volume: '☊'
-ucode_icon_screen_brightness: '☼'
-ucode_icon_battery: '⚡'
-ucode_icon_load_avg: '↻'
-ucode_icon_date_time: '❖'
-ucode_icon_vcs_tree: '☈'
+wm_panel_bar_status_item_labels:
+  ping: '⇄'
+  wired_conn: '⊸'
+  wifi_conn: '♎'
+  volume: '☊'
+  screen_brightness: '☼'
+  battery: '⚡'
+  load_avg: '↻'
+  date_time: '❖'
+  vcs_tree: '☈'
 

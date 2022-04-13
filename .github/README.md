@@ -1,8 +1,8 @@
-# ans_role_vars_ucode_icons
+# ans_role_vars_wm_labels_colors
 
-Define a set of icons and labels for workspaces, tray items, etc.
+Define a set of WM icons, labels, and colors fow windows, panel-bar, etc.
 
-[![Release](https://img.shields.io/github/release/digimokan/ans_role_vars_ucode_icons.svg?label=release)](https://github.com/digimokan/ans_role_vars_ucode_icons/releases/latest "Latest Release Notes")
+[![Release](https://img.shields.io/github/release/digimokan/ans_role_vars_wm_labels_colors.svg?label=release)](https://github.com/digimokan/ans_role_vars_wm_labels_colors/releases/latest "Latest Release Notes")
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?label=license)](LICENSE.md "Project License")
 
 ## Table Of Contents
@@ -16,8 +16,8 @@ Define a set of icons and labels for workspaces, tray items, etc.
 
 ## Purpose
 
-* Define common set of icons and labels for use in window manager panels,
-  trays, indicator boxes, etc.
+* Define common set of icons, labels, and colors for use in window manager
+  windows, trays, panels, indicator boxes, etc.
 
 ## Requirements
 
@@ -32,7 +32,7 @@ Define a set of icons and labels for workspaces, tray items, etc.
 
    ```yaml
    # requirements.yml
-   - src: https://github.com/digimokan/ans_role_vars_ucode_icons
+   - src: https://github.com/digimokan/ans_role_vars_wm_labels_colors
    ```
 
 2. From the project root directory, install/download the role:
@@ -50,9 +50,9 @@ Define a set of icons and labels for workspaces, tray items, etc.
    - hosts: localhost
      connection: local
      tasks:
-       - name: "Define the icons and labels for workspaces, tray items, etc"
+       - name: "Define the WM icons, labels, and colors for windows, panel-bar, etc"
          ansible.builtin.import_role:
-           name: ans_role_vars_ucode_icons
+           name: ans_role_vars_wm_labels_colors
    ```
 
 ## Role Vars
@@ -64,7 +64,7 @@ See the role `vars` file:
 ## Contributing
 
 * Feel free to report a bug or propose a feature by opening a new
-  [Issue](https://github.com/digimokan/ans_role_vars_ucode_icons/issues).
+  [Issue](https://github.com/digimokan/ans_role_vars_wm_labels_colors/issues).
 * Follow the project's [Contributing](CONTRIBUTING.md) guidelines.
 * Respect the project's [Code Of Conduct](CODE_OF_CONDUCT.md).
 
