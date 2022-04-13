@@ -1,5 +1,5 @@
 # icons and labels for workspaces
-workspace_labels:
+wm_workspace_labels:
   workspace_1: '1 ⍉'
   workspace_2: '2 ⌂'
   workspace_3: '3 ⍋'
