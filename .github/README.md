@@ -57,9 +57,9 @@ Define a set of WM icons, labels, and colors fow windows, panel-bar, etc.
 
 ## Role Vars
 
-See the role `vars` file:
+See the role `vars` files:
 
-  * [vars/main/](../vars/main/)
+  * [vars](../vars/main/)
 
 ## Contributing
 
