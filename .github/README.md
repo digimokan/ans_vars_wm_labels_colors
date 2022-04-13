@@ -59,7 +59,7 @@ Define a set of WM icons, labels, and colors fow windows, panel-bar, etc.
 
 See the role `vars` file:
 
-  * [vars/main.yml](../vars/main.yml)
+  * [vars/main/](../vars/main/)
 
 ## Contributing
 
