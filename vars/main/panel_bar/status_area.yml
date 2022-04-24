@@ -1,0 +1,20 @@
+# icons/labels for panel bar status area items
+wm_panel_bar_status_item_labels:
+  ping: '⇄'
+  wired_conn: '⊸'
+  wifi_conn: '♎'
+  volume: '☊'
+  screen_brightness: '☼'
+  battery: '⚡'
+  load_avg: '↻'
+  date_time: '❖'
+  vcs_tree: '☈'
+
+# separator symbol between items in the panel bar status area
+wm_panel_bar_status_item_separator: '│'
+
+# colors for items in the right-side panel bar status area
+wm_panel_bar_status_item_colors:
+  label: '#B9B9BA'
+  separator: '#007C8A'
+

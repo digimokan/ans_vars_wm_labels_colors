@@ -1,5 +1,5 @@
-# icons and labels for workspaces
-wm_workspace_labels:
+# icons/labels for workspaces
+wm_panel_bar_workspace_labels:
   workspace_1: '1 ⍉'
   workspace_2: '2 ⌂'
   workspace_3: '3 ⍋'
@@ -15,4 +15,14 @@ wm_workspace_labels:
   workspace_13: 'D ☎'
   workspace_14: 'E ➤'
   workspace_15: 'F ✚'
+
+# colors for workspace items
+wm_panel_bar_workspace_colors:
+  active_bkgnd: '#292C33'
+  idling_bkgnd: '#1F1F1F'
+  urgent_bkgnd: '#AA3935'
+  active_label: '#B9B9BA'
+  idling_label: '#676E7D'
+  urgent_label: '#F3F4F5'
+  item_borders: '#005E68'
 
