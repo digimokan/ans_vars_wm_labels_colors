@@ -16,5 +16,7 @@ wm_panel_bar_status_item_separator: '│'
 # colors for items in the right-side panel bar status area
 wm_panel_bar_status_item_colors:
   label: '#B9B9BA'
+  label_for_degraded: '#BF8301'
+  label_for_failed: '#E00025'
   separator: '#007C8A'
 
