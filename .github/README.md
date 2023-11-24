@@ -51,7 +51,7 @@ Define a set of WM icons, labels, and colors fow windows, panel-bar, etc.
      connection: local
      tasks:
        - name: "Define the WM icons, labels, and colors for windows, panel-bar, etc"
-         ansible.builtin.import_role:
+         ansible.builtin.include_role:
            name: ans_role_vars_wm_labels_colors
            public: true
    ```
