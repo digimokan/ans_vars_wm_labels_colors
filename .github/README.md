@@ -1,8 +1,8 @@
-# ans_role_vars_wm_labels_colors
+# ans_vars_wm_labels_colors
 
 Define a set of WM icons, labels, and colors fow windows, panel-bar, etc.
 
-[![Release](https://img.shields.io/github/release/digimokan/ans_role_vars_wm_labels_colors.svg?label=release)](https://github.com/digimokan/ans_role_vars_wm_labels_colors/releases/latest "Latest Release Notes")
+[![Release](https://img.shields.io/github/release/digimokan/ans_vars_wm_labels_colors.svg?label=release)](https://github.com/digimokan/ans_vars_wm_labels_colors/releases/latest "Latest Release Notes")
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?label=license)](LICENSE.md "Project License")
 
 ## Table Of Contents
@@ -32,7 +32,7 @@ Define a set of WM icons, labels, and colors fow windows, panel-bar, etc.
 
    ```yaml
    # requirements.yml
-   - src: https://github.com/digimokan/ans_role_vars_wm_labels_colors
+   - src: https://github.com/digimokan/ans_vars_wm_labels_colors
    ```
 
 2. From the project root directory, install/download the role:
@@ -52,7 +52,7 @@ Define a set of WM icons, labels, and colors fow windows, panel-bar, etc.
      tasks:
        - name: "Define the WM icons, labels, and colors for windows, panel-bar, etc"
          ansible.builtin.include_role:
-           name: ans_role_vars_wm_labels_colors
+           name: ans_vars_wm_labels_colors
            public: true
    ```
 
@@ -65,7 +65,7 @@ See the role `vars` files:
 ## Contributing
 
 * Feel free to report a bug or propose a feature by opening a new
-  [Issue](https://github.com/digimokan/ans_role_vars_wm_labels_colors/issues).
+  [Issue](https://github.com/digimokan/ans_vars_wm_labels_colors/issues).
 * Follow the project's [Contributing](CONTRIBUTING.md) guidelines.
 * Respect the project's [Code Of Conduct](CODE_OF_CONDUCT.md).
 
