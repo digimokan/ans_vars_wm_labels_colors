@@ -11,10 +11,10 @@ wm_panel_bar_workspace_labels:
   workspace_9: '9 ⬈'
   workspace_10: 'A ⍏'
   workspace_11: 'B ✱'
-  workspace_12: 'C ⤦'
-  workspace_13: 'D ⍗'
-  workspace_14: 'E ⤥'
-  workspace_15: 'F ⍖'
+  workspace_12: 'C ♦'
+  workspace_13: 'D ☎'
+  workspace_14: 'E ➤'
+  workspace_15: 'F ⚅'
 
 # colors for workspace items
 wm_panel_bar_workspace_colors:
